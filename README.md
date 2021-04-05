@@ -8,4 +8,4 @@ Prediction using Supervised ML
 ● You can use R, Python, SAS Enterprise Miner or any other tool
 ● Data can be found at http://bit.ly/w-data
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
-● Sample Solution : 
+● Sample Solution : https://github.com/bhavinpatel-DS/GRIP-TASK-1/blob/main/Predicting%20Percentage%20of%20Student%20-%20Bhavin.ipynb
